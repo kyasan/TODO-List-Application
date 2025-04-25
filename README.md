@@ -2,7 +2,7 @@
 
 A clean and beautiful Todo List web application built with React + TypeScript.
 
-<img width="1243" alt="截屏2025-04-25 20 25 13" src="https://github.com/user-attachments/assets/a30137e0-d581-4722-81d4-5d0289e49aab" />
+<img width="1241" alt="截屏2025-04-25 20 27 03" src="https://github.com/user-attachments/assets/732b169e-4cdb-4073-b84c-e440f567656d" />
 
 ## Features
 
@@ -66,7 +66,7 @@ src/
 
 ## Developer
 
-[Li Jiang]
+Li Jiang
 
 ## License
 
