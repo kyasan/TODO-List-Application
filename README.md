@@ -6,13 +6,13 @@ A clean and beautiful Todo List web application built with React + TypeScript.
 
 ## Features
 
-- ✨ Clean and minimalist user interface
-- 📝 Add new todo items
-- ✅ Mark todos as complete/incomplete
-- 🗑️ Delete todo items
-- 🔍 Filter by status: All/Active/Completed
-- 📅 Display creation date for each todo
-- 💾 Auto-save to local storage, data persists after page refresh
+- Clean and minimalist user interface
+- Add new todo items
+- Mark todos as complete/incomplete
+- Delete todo items
+- Filter by status: All/Active/Completed
+- Display creation date for each todo
+- Auto-save to local storage, data persists after page refresh
 
 ## Tech Stack
 
