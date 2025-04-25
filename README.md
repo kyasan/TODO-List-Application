@@ -25,7 +25,7 @@ A clean and beautiful Todo List web application built with React + TypeScript.
 
 1. Clone the repository
 ```bash
-git clone [repository-url]
+git clone [https://github.com/kyasan/TODO-List-Application.git]
 cd todo-list
 ```
 
