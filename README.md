@@ -67,7 +67,3 @@ src/
 ## Developer
 
 Li Jiang
-
-## License
-
-MIT License
