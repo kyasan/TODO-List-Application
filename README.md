@@ -14,13 +14,6 @@ A clean and beautiful Todo List web application built with React + TypeScript.
 - Display creation date for each todo
 - Auto-save to local storage, data persists after page refresh
 
-## Tech Stack
-
-- React 18
-- TypeScript
-- CSS3 (Theme management using CSS variables)
-- LocalStorage (Data persistence)
-
 ## Getting Started
 
 1. Clone the repository
@@ -51,6 +44,13 @@ http://localhost:5173
 3. Click the "×" button on the right to delete a todo item
 4. Use "All", "Active", "Completed" buttons to filter todos by status
 5. All operations are automatically saved to browser's local storage
+
+## Tech Stack
+
+- React 18
+- TypeScript
+- CSS3 (Theme management using CSS variables)
+- LocalStorage (Data persistence)
 
 ## Project Structure
 
