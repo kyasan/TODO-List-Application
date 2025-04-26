@@ -44,6 +44,14 @@ npm run dev
 http://localhost:5173
 ```
 
+## How to Use
+
+1. Enter todo content in the input field, press Enter or click "Add" button to add
+2. Click the checkbox next to a todo item to toggle its completion status
+3. Click the "×" button on the right to delete a todo item
+4. Use "All", "Active", "Completed" buttons to filter todos by status
+5. All operations are automatically saved to browser's local storage
+
 ## Project Structure
 
 ```
@@ -55,11 +63,3 @@ src/
 ├── main.tsx        # Application entry point
 └── index.css       # Global styles
 ```
-
-## How to Use
-
-1. Enter todo content in the input field, press Enter or click "Add" button to add
-2. Click the checkbox next to a todo item to toggle its completion status
-3. Click the "×" button on the right to delete a todo item
-4. Use "All", "Active", "Completed" buttons to filter todos by status
-5. All operations are automatically saved to browser's local storage
