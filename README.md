@@ -51,10 +51,9 @@ http://localhost:5173
 
 ## Tech Stack
 
-- React 18
+- React
 - TypeScript
-- CSS3 (Theme management using CSS variables)
-- LocalStorage (Data persistence)
+- CSS
 
 ## Project Structure
 
