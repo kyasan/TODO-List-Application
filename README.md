@@ -48,21 +48,3 @@ http://localhost:5173
 3. Click the "×" button on the right to delete a todo item
 4. Use "All", "Active", "Completed" buttons to filter todos by status
 5. All operations are automatically saved to browser's local storage
-
-## Tech Stack
-
-- React
-- TypeScript
-- CSS
-
-## Project Structure
-
-```
-src/
-├── types/          # TypeScript type definitions
-│   └── Todo.ts     # Todo interface definition
-├── App.tsx         # Main application component
-├── App.css         # Application styles
-├── main.tsx        # Application entry point
-└── index.css       # Global styles
-```
