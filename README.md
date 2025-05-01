@@ -1,6 +1,6 @@
 # Todo List Application
 
-A clean and simple Todo List web application built with React + TypeScript.
+A clean and simple Todo List web application built with React and TypeScript.
 
 <img width="1241" alt="截屏2025-04-25 20 27 03" src="https://github.com/user-attachments/assets/732b169e-4cdb-4073-b84c-e440f567656d" />
 
