@@ -21,22 +21,17 @@ A clean and simple Todo List web application built with React + TypeScript.
 git clone https://github.com/kyasan/TODO-List-Application.git
 ```
 
-2. Navigate to the project directory
-```bash
-cd todo-list
-```
-
-3. Install dependencies
+2. Install dependencies
 ```bash
 npm install
 ```
 
-4. Start development server
+3. Start development server
 ```bash
 npm run dev
 ```
 
-5. Open in browser
+4. Open in browser
 ```
 http://localhost:5173
 ```
